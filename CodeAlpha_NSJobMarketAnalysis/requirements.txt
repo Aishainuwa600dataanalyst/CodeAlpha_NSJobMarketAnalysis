@@ -1,0 +1,8 @@
+# Core packages for src/ns_jobs_pipeline.py and the notebook
+requests>=2.31
+beautifulsoup4>=4.12
+pandas>=2.0
+tabulate>=0.9   # used by src/objectives_summary.py to print tables
+
+# Only needed to open the notebook
+jupyterlab>=4.0
