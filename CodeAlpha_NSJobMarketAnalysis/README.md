@@ -75,17 +75,17 @@ Three dashboards. Each one has filters so you can slice the data yourself in Tab
 ### 1. NS Job Market Overview (objectives 2, 4, 5)
 *"Give me the big picture."* Total postings, median salary, the most advertised role categories, top locations and working arrangements.
 
-![NS Job Market Overview](dashboards/01_ns_job_market_overview.png)
+![NS Job Market Overview](dashboards/01_ns_job_market_overview.png.png)
 
 ### 2. Roles & Salary Insights (objectives 2, 3)
 *"Who pays what?"* Median advertised annual salary by role category, how salaries are distributed, and which roles show up most.
 
-![Roles and Salary Insights](dashboards/02_roles_and_salary_insights.png)
+![Roles and Salary Insights](dashboards/02_roles_and_salary_insights.png.png)
 
 ### 3. Where & How Employers Hire (objectives 4, 5, 6)
 *"Where are the jobs, and on what terms?"* Locations, advertised working patterns, contract types and closing-date status.
 
-![Where and How Employers Hire](dashboards/03_where_and_how_employers_hire.png)
+![Where and How Employers Hire](dashboards/03_where_and_how_employers_hire.png.png)
 
 > 🧭 The interactive workbook is in [`tableau/NS_Job_Market_Dashboards.twbx`](tableau/NS_Job_Market_Dashboards.twbx). Open it in Tableau Desktop or Tableau Public.
 
